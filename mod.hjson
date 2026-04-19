@@ -3,5 +3,5 @@ displayName: "HunNimbus Liquid Resprites"
 author: "HunNimbus"
 description: "Texture pack for my liquid resprites"
 version: "1.0"
-minGameVersion: "136"
+minGameVersion: "157"
 hidden: true
